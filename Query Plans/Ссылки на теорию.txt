@@ -1,0 +1,4 @@
+Hash joins: https://habr.com/ru/companies/otus/articles/459314/
+Visualizing Nested Loops Joins And Understanding Their Implications: https://bertwagner.com/posts/visualizing-nested-loops-joins-and-understanding-their-implications/
+Visualizing Merge Join Internals And Understanding Their Implications: https://bertwagner.com/posts/visualizing-merge-join-internals-and-understanding-their-implications/
+Git Hub repo: https://github.com/OTUS-MS-SQL-Server/ms-sql-server-2023-10/tree/main/05-plans_indexes_bonus/demo
