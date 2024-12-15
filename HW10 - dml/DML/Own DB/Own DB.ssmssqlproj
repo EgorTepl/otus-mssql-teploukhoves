@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Own DB">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DIABLOALEX666\SQLEXPRESS:DIABLOALEX666\79164">
+          <Created>2024-04-25T12:32:09.4543573+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DIABLOALEX666\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>WideWorldImporters</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="ALTER OrderLines.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DIABLOALEX666\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DIABLOALEX666\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER OrderLines.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER Products.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DIABLOALEX666\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DIABLOALEX666\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER Products.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CREATE DB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DIABLOALEX666\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DIABLOALEX666\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CREATE DB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CREATE TABLE Products.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DIABLOALEX666\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DIABLOALEX666\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CREATE TABLE Products.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CREATE TABLE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DIABLOALEX666\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DIABLOALEX666\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CREATE TABLE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT OrderLine.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DIABLOALEX666\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DIABLOALEX666\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSERT OrderLine.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT Products UTF-8.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DIABLOALEX666\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DIABLOALEX666\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSERT Products UTF-8.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MERGE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>MERGE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UPDATE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>UPDATE.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,4 @@
+Недетерминированный Update: https://otus.ru/nest/post/835/
+Синтаксис оператора Merge: https://otus.ru/nest/post/814/
+SQL Server MERGE: The Essential Guide to MERGE Statement: https://www.sqlservertutorial.net/sql-server-basics/sql-server-merge/
+Скрипты: https://github.com/MarinaPaley/OTUS-DML
